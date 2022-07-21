@@ -5,6 +5,12 @@ It is helpful for those students who can not concentrate on their studies and fa
 ## Algorithm Used
 
 Keras-Vggface
+## Installation
+
+* conda create --prefix ./env python==3.8 -y
+* conda activate <<path_to_env_directory>>/env
+* pip install -r requirements.txt
+
 ## Steps
 
 ### Take image through webcam (by default this application takes 50 images of you)
