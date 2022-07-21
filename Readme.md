@@ -13,7 +13,6 @@ Keras-Vggface
 ### Train Model (system collects all the face embeddings of all persons, present in your directory)
 ![Train Model](collection_embeddings.png)
 
-### Prediction or Monitor (In prediction, system only recognize you. In Monitor, it recognize you and monitor you) 
-# demo :p
-sample_video.mp4
+### Prediction or Monitor (In prediction, system only recognize you. In Monitor, it recognize you and monitor you) :p
 
+https://drive.google.com/drive/u/2/my-drive/sample_video.mp4
