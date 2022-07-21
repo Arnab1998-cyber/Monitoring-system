@@ -15,5 +15,5 @@ Keras-Vggface
 
 ### Prediction or Monitor (In prediction, system only recognize you. In Monitor, it recognize you and monitor you)
 
-![Demo](sample_video.mp4)
+sample_video.mp4
 
