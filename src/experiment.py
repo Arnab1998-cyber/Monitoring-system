@@ -12,21 +12,6 @@ import dlib
 detector = dlib.get_frontal_face_detector()
 predict = dlib.shape_predictor("src\models\shape_predictor_68_face_landmarks.dat")
 
-"""def compute(a,b):
-    dist = np.linalg.norm(a - b)
-    return dist
-
-def blinked(a,b,c,d,e,f):
-    up = compute(b,d) + compute(c,e)
-    down = compute(a,f)
-    ratio = up / (2.0 * down)
-    if ratio > 0.25:
-        return 'open'
-    elif ratio > 0.21 and ratio <= 0.25:
-        return 'blinked'
-    else:
-        return 'close'    """
-
 
 thresh = 0.20
 flag = 0
@@ -68,9 +53,7 @@ while cap.isOpened():
             flag += 1
             #print (flag)
             if flag >= frame_check:
-                cv2.putText(frame1, "****************ALERT!****************", (10, 30),
-                    cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 2)
-                cv2.putText(frame1, "****************ALERT!****************", (10,325),
+                cv2.putText(frame1, "*********************ALERT!*********************", (10, 30),
                     cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 2)
 
         else:
