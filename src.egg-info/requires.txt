@@ -1,0 +1,10 @@
+mtcnn
+tensorflow
+keras
+opencv-python
+keras-vggface
+cmake
+dlib
+Keras-Applications
+sklearn
+tqdm

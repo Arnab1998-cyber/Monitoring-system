@@ -1,0 +1,5 @@
+01. If there is an error: ModuleNotFoundError: No module named 'keras.engine.topology'
+    change
+    from keras.engine.topology import get_source_inputs
+    to
+    from keras.utils.layer_utils import get_source_inputs in keras_vggface/models.py.

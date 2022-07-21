@@ -1,0 +1,12 @@
+tensorflow
+keras
+opencv-python
+keras-vggface
+Keras-Applications
+tqdm
+cmake
+dlib
+imutils
+pyttsx3
+
+-e .

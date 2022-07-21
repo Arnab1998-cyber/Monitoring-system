@@ -1,0 +1,20 @@
+base:
+  artifacts_dir: 'artifacts'
+  data_dir: 'data'
+  
+  pickle_format_data_dir: pickle_format_data
+  img_pickle_file_name: img_pickle_file.pkl
+  feature_extraction_dir: extracted_features
+  extracted_features_name: embedding.pkl
+
+  model_dir: models
+  model_file: face_model.h5
+  eye_detector_file: shape_predictor_68_face_landmarks.dat
+
+  log_dir: 'logs'
+  log_file: 'log.txt'
+
+  number_of_image: 50
+  eye_closing_threshold: 0.20
+  max_closed_eye_frame: 5
+

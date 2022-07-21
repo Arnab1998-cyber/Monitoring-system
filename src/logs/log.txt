@@ -1,0 +1,275 @@
+19/07/2022  08:35:20 AM : root : INFO : data collection started
+19/07/2022  08:36:13 AM : root : INFO : data collection started
+19/07/2022  08:36:36 AM : root : INFO : data collection started
+19/07/2022  08:37:02 AM : tensorflow : WARNING : 5 out of the last 15 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000001FAB278D3A0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+19/07/2022  08:37:07 AM : tensorflow : WARNING : 5 out of the last 14 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000001FAB278DC10> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+19/07/2022  08:43:28 AM : root : INFO : data collection started
+19/07/2022  08:43:35 AM : tensorflow : WARNING : 5 out of the last 16 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000001BFD717C3A0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+19/07/2022  08:43:38 AM : tensorflow : WARNING : 5 out of the last 15 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000001BFD717CC10> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+19/07/2022  08:50:50 AM : root : INFO : data collection started
+19/07/2022  08:50:55 AM : tensorflow : WARNING : 5 out of the last 15 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000002D0A21B85E0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+19/07/2022  08:58:37 AM : root : INFO : data collection started
+19/07/2022  08:58:43 AM : tensorflow : WARNING : 5 out of the last 15 calls to <function Model.make_predict_function.<locals>.predict_function at 0x0000021DFF8EBC10> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+19/07/2022  09:01:33 AM : root : INFO : data collection started
+19/07/2022  09:01:38 AM : tensorflow : WARNING : 5 out of the last 16 calls to <function Model.make_predict_function.<locals>.predict_function at 0x0000015B85A2BC10> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+19/07/2022  10:04:47 AM : root : INFO : data collection started
+19/07/2022  10:06:07 AM : root : INFO : data collection started
+19/07/2022  10:07:18 AM : root : INFO : data collection started
+19/07/2022  10:08:06 AM : root : INFO : data collected for Arnab
+19/07/2022  10:08:07 AM : root : INFO : data collection finished
+19/07/2022  10:08:07 AM : root : INFO : stage 01 completed
+19/07/2022  10:11:23 AM : root : INFO : data collection started
+19/07/2022  10:12:55 AM : root : INFO : data collected for Arnab
+19/07/2022  10:12:55 AM : root : INFO : data collection finished
+19/07/2022  10:12:55 AM : root : INFO : stage 01 completed
+19/07/2022  10:37:23 AM : root : INFO : data collection started
+19/07/2022  10:40:59 AM : root : INFO : data collection started
+19/07/2022  10:42:35 AM : root : INFO : data collected for Arnab1
+19/07/2022  10:42:36 AM : root : INFO : data collection finished
+19/07/2022  10:42:36 AM : root : INFO : stage 01 completed
+19/07/2022  10:49:32 AM : root : INFO : genarating pickle file
+19/07/2022  10:49:32 AM : root : INFO : pickle file for images created
+19/07/2022  10:50:08 AM : root : INFO : genarating pickle file
+19/07/2022  10:51:20 AM : root : INFO : genarating pickle file
+19/07/2022  10:51:22 AM : root : INFO : genarating pickle file
+19/07/2022  10:55:08 AM : root : INFO : genarating pickle file
+19/07/2022  10:55:38 AM : root : INFO : genarating pickle file
+19/07/2022  10:55:38 AM : root : INFO : pickle file for images created
+19/07/2022  10:55:38 AM : root : INFO : There are ['Arnab', 'Arnab1', 'Jiwitesh', 'Sudhanshu'] persons
+19/07/2022  10:55:40 AM : root : INFO : genarating pickle file
+19/07/2022  10:55:40 AM : root : INFO : pickle file for images created
+19/07/2022  10:55:40 AM : root : INFO : There are ['Arnab', 'Arnab1', 'Jiwitesh', 'Sudhanshu'] persons
+19/07/2022  10:56:12 AM : root : INFO : genarating pickle file
+19/07/2022  10:56:12 AM : root : INFO : pickle file for images created
+19/07/2022  10:56:12 AM : root : INFO : There are ['Arnab', 'Arnab1', 'Jiwitesh', 'Sudhanshu'] persons
+19/07/2022  10:56:32 AM : root : INFO : genarating pickle file
+19/07/2022  10:56:32 AM : root : INFO : pickle file for images created
+19/07/2022  10:56:32 AM : root : INFO : There are ['Arnab', 'Arnab1', 'Jiwitesh', 'Sudhanshu'] persons
+19/07/2022  10:56:32 AM : root : INFO : stage 02 compleed
+19/07/2022  10:56:32 AM : root : INFO : feature extraction started
+19/07/2022  10:58:20 AM : root : INFO : genarating pickle file
+19/07/2022  10:58:20 AM : root : INFO : pickle file for images created
+19/07/2022  10:58:20 AM : root : INFO : There are ['Arnab', 'Arnab1', 'Jiwitesh', 'Sudhanshu'] persons
+19/07/2022  10:58:20 AM : root : INFO : stage 02 compleed
+19/07/2022  10:58:20 AM : root : INFO : feature extraction started
+19/07/2022  10:59:47 AM : root : INFO : feature file is ready
+19/07/2022  11:03:44 AM : root : INFO : genarating pickle file
+19/07/2022  11:03:44 AM : root : INFO : pickle file for images created
+19/07/2022  11:03:44 AM : root : INFO : There are ['Arnab', 'Arnab1', 'Jiwitesh', 'Sudhanshu'] persons
+19/07/2022  11:03:44 AM : root : INFO : stage 02 compleed
+19/07/2022  11:03:44 AM : root : INFO : feature extraction started
+19/07/2022  11:05:01 AM : root : INFO : feature file is ready
+19/07/2022  11:05:01 AM : tensorflow : WARNING : Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+19/07/2022  11:05:26 AM : absl : WARNING : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 53). These functions will not be directly callable after loading.
+19/07/2022  11:05:35 AM : tensorflow : INFO : Assets written to: ram://ce7ad787-f75f-4ef1-9fda-99e1e9cdcf44/assets
+19/07/2022  11:05:36 AM : root : INFO : model file is ready
+19/07/2022  11:05:36 AM : root : INFO : feature extraction completed
+19/07/2022  11:05:36 AM : root : INFO : stage 03 completed
+19/07/2022  11:07:02 AM : root : INFO : Its Monitoring time
+19/07/2022  11:12:04 AM : root : INFO : Its Monitoring time
+19/07/2022  11:13:02 AM : root : INFO : Its Monitoring time
+19/07/2022  11:17:52 AM : root : INFO : genarating pickle file
+19/07/2022  11:17:52 AM : root : INFO : pickle file for images created
+19/07/2022  11:17:52 AM : root : INFO : There are ['Arnab', 'Arnab1', 'Jiwitesh', 'Sudhanshu'] persons
+19/07/2022  11:17:52 AM : root : INFO : stage 02 compleed
+19/07/2022  11:17:52 AM : root : INFO : feature extraction started
+19/07/2022  11:19:05 AM : root : INFO : feature file is ready
+19/07/2022  11:19:05 AM : tensorflow : WARNING : Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+19/07/2022  11:19:31 AM : absl : WARNING : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 53). These functions will not be directly callable after loading.
+19/07/2022  11:19:40 AM : tensorflow : INFO : Assets written to: ram://c7395f76-3cbc-4c3d-a1ee-e88cd694beb5/assets
+19/07/2022  11:19:41 AM : tensorflow : WARNING : Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+19/07/2022  11:20:05 AM : absl : WARNING : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 53). These functions will not be directly callable after loading.
+19/07/2022  11:21:34 AM : root : INFO : genarating pickle file
+19/07/2022  11:21:34 AM : root : INFO : pickle file for images created
+19/07/2022  11:21:34 AM : root : INFO : There are ['Arnab', 'Arnab1', 'Jiwitesh', 'Sudhanshu'] persons
+19/07/2022  11:21:34 AM : root : INFO : stage 02 compleed
+19/07/2022  11:21:34 AM : root : INFO : feature extraction started
+19/07/2022  11:22:48 AM : root : INFO : feature file is ready
+19/07/2022  11:22:48 AM : tensorflow : WARNING : Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+19/07/2022  11:23:13 AM : absl : WARNING : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 53). These functions will not be directly callable after loading.
+19/07/2022  11:23:21 AM : tensorflow : INFO : Assets written to: ram://5375fc8b-05b0-4cfe-8870-338afacf0c7c/assets
+19/07/2022  11:23:22 AM : tensorflow : WARNING : Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+19/07/2022  11:23:25 AM : root : INFO : model file is ready
+19/07/2022  11:23:25 AM : root : INFO : feature extraction completed
+19/07/2022  11:23:25 AM : root : INFO : stage 03 completed
+19/07/2022  11:24:31 AM : root : INFO : Its Monitoring time
+19/07/2022  11:26:42 AM : root : INFO : Its Monitoring time
+19/07/2022  11:26:47 AM : tensorflow : WARNING : No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+19/07/2022  11:28:27 AM : root : INFO : Its Monitoring time
+19/07/2022  11:28:32 AM : tensorflow : WARNING : No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+19/07/2022  11:31:16 AM : root : INFO : Its Monitoring time
+19/07/2022  11:31:21 AM : tensorflow : WARNING : No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+19/07/2022  11:35:20 AM : root : INFO : Its Monitoring time
+19/07/2022  11:35:24 AM : tensorflow : WARNING : No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+19/07/2022  11:37:19 AM : root : INFO : Its Monitoring time
+19/07/2022  11:37:24 AM : tensorflow : WARNING : No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+19/07/2022  11:39:00 AM : root : INFO : Its Monitoring time
+19/07/2022  11:39:04 AM : tensorflow : WARNING : No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+19/07/2022  11:40:45 AM : root : INFO : Its Monitoring time
+19/07/2022  11:40:50 AM : tensorflow : WARNING : No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+19/07/2022  11:43:31 AM : root : INFO : Its Monitoring time
+19/07/2022  11:43:35 AM : tensorflow : WARNING : No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+19/07/2022  11:50:35 AM : root : INFO : Its Monitoring time
+19/07/2022  11:50:42 AM : tensorflow : WARNING : No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+19/07/2022  11:52:50 AM : root : INFO : Its Monitoring time
+19/07/2022  11:52:55 AM : tensorflow : WARNING : No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+20/07/2022  07:33:28 AM : root : INFO : Its Monitoring time
+20/07/2022  07:33:37 AM : tensorflow : WARNING : No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+20/07/2022  07:39:25 AM : root : INFO : Its Monitoring time
+20/07/2022  07:39:32 AM : tensorflow : WARNING : No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+20/07/2022  07:54:00 AM : root : INFO : Its Monitoring time
+20/07/2022  07:54:05 AM : tensorflow : WARNING : No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+20/07/2022  07:54:08 AM : comtypes.client._code_cache : INFO : Could not import comtypes.gen, trying to create it.
+20/07/2022  07:54:08 AM : comtypes.client._code_cache : INFO : Created comtypes.gen directory: 'D:\visual_monitoring_system\env\lib\site-packages\comtypes\gen'
+20/07/2022  07:54:08 AM : comtypes.client._code_cache : INFO : Writing __init__.py file: 'D:\visual_monitoring_system\env\lib\site-packages\comtypes\gen\__init__.py'
+20/07/2022  07:54:08 AM : comtypes.client._code_cache : INFO : Using writeable comtypes cache directory: 'D:\visual_monitoring_system\env\lib\site-packages\comtypes\gen'
+20/07/2022  07:54:08 AM : comtypes.client._generate : INFO : Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: No module named 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4'
+20/07/2022  07:54:08 AM : comtypes.client._generate : INFO : # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+20/07/2022  07:54:08 AM : comtypes.client._generate : INFO : Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
+20/07/2022  07:54:08 AM : comtypes.client._generate : INFO : # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
+20/07/2022  07:54:08 AM : comtypes.client._generate : INFO : Could not import comtypes.gen.stdole: No module named 'comtypes.gen.stdole'
+20/07/2022  07:54:08 AM : comtypes.client._generate : INFO : # Generating comtypes.gen.stdole
+20/07/2022  07:54:08 AM : comtypes.client._generate : INFO : Could not import comtypes.gen.SpeechLib: No module named 'comtypes.gen.SpeechLib'
+20/07/2022  07:54:08 AM : comtypes.client._generate : INFO : # Generating comtypes.gen.SpeechLib
+20/07/2022  07:58:35 AM : root : INFO : data collection started
+20/07/2022  08:00:00 AM : root : INFO : data collected for 
+20/07/2022  08:00:00 AM : root : INFO : data collection finished
+20/07/2022  08:00:00 AM : root : INFO : stage 01 completed
+20/07/2022  08:01:28 AM : root : INFO : data collection started
+20/07/2022  08:03:03 AM : root : INFO : data collected for Arnab1
+20/07/2022  08:03:03 AM : root : INFO : data collection finished
+20/07/2022  08:03:03 AM : root : INFO : stage 01 completed
+20/07/2022  08:03:13 AM : root : INFO : genarating pickle file
+20/07/2022  08:09:23 AM : root : INFO : genarating pickle file
+20/07/2022  08:09:23 AM : root : INFO : pickle file for images created
+20/07/2022  08:09:23 AM : root : INFO : There are ['Arnab', 'Arnab1', 'Jiwitesh', 'Sudhanshu'] persons
+20/07/2022  08:09:23 AM : root : INFO : stage 02 compleed
+20/07/2022  08:09:23 AM : root : INFO : feature extraction started
+20/07/2022  08:10:49 AM : root : INFO : feature file is ready
+20/07/2022  08:10:49 AM : tensorflow : WARNING : Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+20/07/2022  08:10:52 AM : root : INFO : model file is ready
+20/07/2022  08:10:52 AM : root : INFO : feature extraction completed
+20/07/2022  08:10:52 AM : root : INFO : stage 03 completed
+20/07/2022  08:11:23 AM : root : INFO : Its Monitoring time
+20/07/2022  08:11:27 AM : tensorflow : WARNING : No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+20/07/2022  08:11:29 AM : comtypes.client._code_cache : INFO : Imported existing <module 'comtypes.gen' from 'D:\\visual_monitoring_system\\env\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+20/07/2022  08:11:29 AM : comtypes.client._code_cache : INFO : Using writeable comtypes cache directory: 'D:\visual_monitoring_system\env\lib\site-packages\comtypes\gen'
+20/07/2022  08:11:43 AM : root : INFO : Its Monitoring time
+20/07/2022  08:11:47 AM : tensorflow : WARNING : No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+20/07/2022  08:12:54 AM : root : INFO : data collection started
+20/07/2022  08:13:04 AM : root : INFO : data collection started
+20/07/2022  08:45:43 AM : root : INFO : Its Monitoring time
+20/07/2022  08:45:52 AM : tensorflow : WARNING : No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+20/07/2022  08:45:58 AM : comtypes.client._code_cache : INFO : Imported existing <module 'comtypes.gen' from 'D:\\visual_monitoring_system\\env\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+20/07/2022  08:45:58 AM : comtypes.client._code_cache : INFO : Using writeable comtypes cache directory: 'D:\visual_monitoring_system\env\lib\site-packages\comtypes\gen'
+20/07/2022  08:50:49 AM : root : INFO : Its Monitoring time
+20/07/2022  08:50:57 AM : tensorflow : WARNING : No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+20/07/2022  08:51:03 AM : comtypes.client._code_cache : INFO : Imported existing <module 'comtypes.gen' from 'D:\\visual_monitoring_system\\env\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+20/07/2022  08:51:03 AM : comtypes.client._code_cache : INFO : Using writeable comtypes cache directory: 'D:\visual_monitoring_system\env\lib\site-packages\comtypes\gen'
+20/07/2022  10:45:57 AM : root : INFO : Its Monitoring time
+20/07/2022  10:46:03 AM : tensorflow : WARNING : No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+20/07/2022  10:46:07 AM : comtypes.client._code_cache : INFO : Imported existing <module 'comtypes.gen' from 'D:\\visual_monitoring_system\\env\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+20/07/2022  10:46:07 AM : comtypes.client._code_cache : INFO : Using writeable comtypes cache directory: 'D:\visual_monitoring_system\env\lib\site-packages\comtypes\gen'
+20/07/2022  10:52:27 AM : root : INFO : data collection started
+20/07/2022  10:57:29 AM : root : INFO : data collection started
+20/07/2022  10:59:09 AM : root : INFO : data collected for Sudhangshu
+20/07/2022  10:59:09 AM : root : INFO : data collection finished
+20/07/2022  10:59:09 AM : root : INFO : stage 01 completed
+20/07/2022  11:00:15 AM : root : INFO : genarating pickle file
+20/07/2022  11:00:15 AM : root : INFO : pickle file for images created
+20/07/2022  11:00:15 AM : root : INFO : There are ['Arnab', 'Arnab1', 'Jiwitesh', 'Sudhangshu', 'Sudhanshu'] persons
+20/07/2022  11:00:15 AM : root : INFO : stage 02 compleed
+20/07/2022  11:00:15 AM : root : INFO : feature extraction started
+20/07/2022  11:01:44 AM : root : INFO : feature file is ready
+20/07/2022  11:01:44 AM : tensorflow : WARNING : Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+20/07/2022  11:01:45 AM : root : INFO : model file is ready
+20/07/2022  11:01:45 AM : root : INFO : feature extraction completed
+20/07/2022  11:01:45 AM : root : INFO : stage 03 completed
+20/07/2022  11:01:52 AM : root : INFO : Its Monitoring time
+20/07/2022  11:01:56 AM : tensorflow : WARNING : No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+20/07/2022  11:01:58 AM : comtypes.client._code_cache : INFO : Imported existing <module 'comtypes.gen' from 'D:\\visual_monitoring_system\\env\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+20/07/2022  11:01:58 AM : comtypes.client._code_cache : INFO : Using writeable comtypes cache directory: 'D:\visual_monitoring_system\env\lib\site-packages\comtypes\gen'
+20/07/2022  11:02:34 AM : root : INFO : Its Monitoring time
+20/07/2022  11:02:38 AM : tensorflow : WARNING : No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+20/07/2022  11:03:30 AM : root : INFO : Its Monitoring time
+20/07/2022  11:03:34 AM : tensorflow : WARNING : No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+20/07/2022  11:03:36 AM : comtypes.client._code_cache : INFO : Imported existing <module 'comtypes.gen' from 'D:\\visual_monitoring_system\\env\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+20/07/2022  11:03:36 AM : comtypes.client._code_cache : INFO : Using writeable comtypes cache directory: 'D:\visual_monitoring_system\env\lib\site-packages\comtypes\gen'
+20/07/2022  11:08:02 AM : root : INFO : Its Monitoring time
+20/07/2022  11:08:07 AM : tensorflow : WARNING : No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+20/07/2022  11:08:09 AM : comtypes.client._code_cache : INFO : Imported existing <module 'comtypes.gen' from 'D:\\visual_monitoring_system\\env\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+20/07/2022  11:08:09 AM : comtypes.client._code_cache : INFO : Using writeable comtypes cache directory: 'D:\visual_monitoring_system\env\lib\site-packages\comtypes\gen'
+20/07/2022  11:14:16 AM : root : INFO : Its Monitoring time
+20/07/2022  11:14:21 AM : tensorflow : WARNING : No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+20/07/2022  11:14:23 AM : comtypes.client._code_cache : INFO : Imported existing <module 'comtypes.gen' from 'D:\\visual_monitoring_system\\env\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+20/07/2022  11:14:23 AM : comtypes.client._code_cache : INFO : Using writeable comtypes cache directory: 'D:\visual_monitoring_system\env\lib\site-packages\comtypes\gen'
+20/07/2022  11:24:36 AM : root : INFO : Its Monitoring time
+20/07/2022  11:24:41 AM : tensorflow : WARNING : No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+20/07/2022  11:24:43 AM : comtypes.client._code_cache : INFO : Imported existing <module 'comtypes.gen' from 'D:\\visual_monitoring_system\\env\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+20/07/2022  11:24:43 AM : comtypes.client._code_cache : INFO : Using writeable comtypes cache directory: 'D:\visual_monitoring_system\env\lib\site-packages\comtypes\gen'
+20/07/2022  11:36:22 AM : root : INFO : Its Monitoring time
+20/07/2022  11:36:27 AM : tensorflow : WARNING : No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+20/07/2022  11:36:30 AM : comtypes.client._code_cache : INFO : Imported existing <module 'comtypes.gen' from 'D:\\visual_monitoring_system\\env\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+20/07/2022  11:36:30 AM : comtypes.client._code_cache : INFO : Using writeable comtypes cache directory: 'D:\visual_monitoring_system\env\lib\site-packages\comtypes\gen'
+20/07/2022  11:38:09 AM : root : INFO : Its Monitoring time
+20/07/2022  11:38:14 AM : tensorflow : WARNING : No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+20/07/2022  11:38:16 AM : comtypes.client._code_cache : INFO : Imported existing <module 'comtypes.gen' from 'D:\\visual_monitoring_system\\env\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+20/07/2022  11:38:16 AM : comtypes.client._code_cache : INFO : Using writeable comtypes cache directory: 'D:\visual_monitoring_system\env\lib\site-packages\comtypes\gen'
+20/07/2022  11:40:57 AM : root : INFO : Its Monitoring time
+20/07/2022  11:41:01 AM : tensorflow : WARNING : No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+20/07/2022  11:41:03 AM : comtypes.client._code_cache : INFO : Imported existing <module 'comtypes.gen' from 'D:\\visual_monitoring_system\\env\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+20/07/2022  11:41:03 AM : comtypes.client._code_cache : INFO : Using writeable comtypes cache directory: 'D:\visual_monitoring_system\env\lib\site-packages\comtypes\gen'
+20/07/2022  11:42:37 AM : root : INFO : Its Monitoring time
+20/07/2022  11:42:41 AM : tensorflow : WARNING : No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+20/07/2022  11:42:44 AM : comtypes.client._code_cache : INFO : Imported existing <module 'comtypes.gen' from 'D:\\visual_monitoring_system\\env\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+20/07/2022  11:42:44 AM : comtypes.client._code_cache : INFO : Using writeable comtypes cache directory: 'D:\visual_monitoring_system\env\lib\site-packages\comtypes\gen'
+20/07/2022  11:44:33 AM : root : INFO : genarating pickle file
+20/07/2022  11:44:33 AM : root : INFO : pickle file for images created
+20/07/2022  11:44:33 AM : root : INFO : There are ['Arnab', 'Jiwitesh', 'Sudhangshu', 'Sudhanshu'] persons
+20/07/2022  11:44:33 AM : root : INFO : stage 02 compleed
+20/07/2022  11:44:33 AM : root : INFO : feature extraction started
+20/07/2022  11:45:41 AM : root : INFO : feature file is ready
+20/07/2022  11:45:41 AM : tensorflow : WARNING : Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+20/07/2022  11:45:43 AM : root : INFO : model file is ready
+20/07/2022  11:45:43 AM : root : INFO : feature extraction completed
+20/07/2022  11:45:43 AM : root : INFO : stage 03 completed
+20/07/2022  11:45:46 AM : root : INFO : Its Monitoring time
+20/07/2022  11:45:50 AM : tensorflow : WARNING : No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+20/07/2022  11:45:53 AM : comtypes.client._code_cache : INFO : Imported existing <module 'comtypes.gen' from 'D:\\visual_monitoring_system\\env\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+20/07/2022  11:45:53 AM : comtypes.client._code_cache : INFO : Using writeable comtypes cache directory: 'D:\visual_monitoring_system\env\lib\site-packages\comtypes\gen'
+21/07/2022  07:39:35 AM : root : INFO : Its Monitoring time
+21/07/2022  07:39:44 AM : tensorflow : WARNING : No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+21/07/2022  07:39:49 AM : comtypes.client._code_cache : INFO : Imported existing <module 'comtypes.gen' from 'D:\\visual_monitoring_system\\env\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+21/07/2022  07:39:49 AM : comtypes.client._code_cache : INFO : Using writeable comtypes cache directory: 'D:\visual_monitoring_system\env\lib\site-packages\comtypes\gen'
+21/07/2022  07:40:09 AM : root : INFO : Its Monitoring time
+21/07/2022  07:40:14 AM : tensorflow : WARNING : No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+21/07/2022  07:41:32 AM : root : INFO : Its Monitoring time
+21/07/2022  07:41:41 AM : tensorflow : WARNING : No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+21/07/2022  07:49:39 AM : root : INFO : Its Monitoring time
+21/07/2022  07:49:49 AM : tensorflow : WARNING : No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+21/07/2022  07:49:57 AM : comtypes.client._code_cache : INFO : Imported existing <module 'comtypes.gen' from 'D:\\visual_monitoring_system\\env\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+21/07/2022  07:49:57 AM : comtypes.client._code_cache : INFO : Using writeable comtypes cache directory: 'D:\visual_monitoring_system\env\lib\site-packages\comtypes\gen'
+21/07/2022  07:52:06 AM : root : INFO : Its Monitoring time
+21/07/2022  07:52:11 AM : tensorflow : WARNING : No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+21/07/2022  07:52:37 AM : root : INFO : Its Monitoring time
+21/07/2022  07:52:45 AM : tensorflow : WARNING : No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+21/07/2022  07:55:24 AM : root : INFO : Its Monitoring time
+21/07/2022  07:55:30 AM : tensorflow : WARNING : No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+21/07/2022  07:56:53 AM : root : INFO : Its Monitoring time
+21/07/2022  07:57:02 AM : tensorflow : WARNING : No training configuration found in the save file, so the model was *not* compiled. Compile it manually.
+21/07/2022  07:57:09 AM : comtypes.client._code_cache : INFO : Imported existing <module 'comtypes.gen' from 'D:\\visual_monitoring_system\\env\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+21/07/2022  07:57:09 AM : comtypes.client._code_cache : INFO : Using writeable comtypes cache directory: 'D:\visual_monitoring_system\env\lib\site-packages\comtypes\gen'
+21/07/2022  08:01:13 AM : root : INFO : data collection started
+21/07/2022  08:02:27 AM : root : INFO : data collected for Arnab1
+21/07/2022  08:02:28 AM : root : INFO : data collection finished
+21/07/2022  08:02:28 AM : root : INFO : stage 01 completed
+21/07/2022  08:03:11 AM : root : INFO : genarating pickle file
+21/07/2022  08:03:11 AM : root : INFO : pickle file for images created
+21/07/2022  08:03:11 AM : root : INFO : There are ['Arnab', 'Arnab1', 'Jiwitesh', 'Sudhangshu', 'Sudhanshu'] persons
+21/07/2022  08:03:11 AM : root : INFO : stage 02 compleed
+21/07/2022  08:03:11 AM : root : INFO : feature extraction started
+21/07/2022  08:04:48 AM : root : INFO : feature file is ready
+21/07/2022  08:04:48 AM : tensorflow : WARNING : Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+21/07/2022  08:04:50 AM : root : INFO : model file is ready
+21/07/2022  08:04:50 AM : root : INFO : feature extraction completed
+21/07/2022  08:04:50 AM : root : INFO : stage 03 completed
