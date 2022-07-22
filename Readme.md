@@ -13,6 +13,8 @@ Keras-Vggface
 
 ## Steps
 
+### First go to the project directory and run 'python src/app.py' in command line.
+
 ### Take image through webcam (by default this application takes 50 images of you)
 ![Take image](take_image.png)
 
