@@ -18,7 +18,7 @@ Keras-Vggface
 ### Take image through webcam (by default this application takes 50 images of you)
 ![Take image](take_image.png)
 
-### Train Model (system collect face embeddings of all persons, present in your data directory)
+### Train Model (system collects face embeddings of all persons, present in your data directory)
 ![Train Model](collection_embeddings.png)
 
 ### Prediction or Monitor (In prediction, system only recognize you. In Monitor, it recognize you and monitor you
