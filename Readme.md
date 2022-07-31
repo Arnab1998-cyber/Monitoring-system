@@ -10,6 +10,10 @@ Keras-Vggface
 * conda create --prefix ./env python==3.8 -y
 * conda activate <<path_to_env_directory>>/env
 * pip install -r requirements.txt
+## Project Demo
+
+### View my project
+[Demo](https://www.linkedin.com/posts/arnab-mitra-882756227_computervision-deeplearning-connections-activity-6955897884059791361-C7Ce?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
 ## Steps
 
